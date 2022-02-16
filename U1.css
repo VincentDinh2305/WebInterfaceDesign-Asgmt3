@@ -1,0 +1,14 @@
+﻿h1 {
+	background-repeat: no-repeat;
+	background-image: url('images/as3.jpg');
+	width: 200px;
+}
+h2 {
+	font-family: "Arial Black";
+	background-image: url('images/bike.png');
+	background-repeat: no-repeat;
+	background-color: #CCFFCC;
+	font-variant: small-caps;
+	text-transform: capitalize;
+	color: #33CC33;
+}
